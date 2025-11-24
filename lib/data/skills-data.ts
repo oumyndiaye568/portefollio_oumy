@@ -9,12 +9,12 @@ export const skills: SkillCategory[] = [
   {
     category: "languages",
     title: "Langages de programmation",
-    items: ["Java", "PHP", "JavaScript", "TypeScript", "Python" ]
+    items: ["Java", "PHP", "JavaScript", "TypeScript", "DART" ]
   },
   {
     category: "frameworks",
     title: "Frameworks & bibliothèques",
-    items: ["Laravel", "React", "Spring Boot", "Node.js", "Express", "Flutter","Angular","React JS","Next JS","Nest JS","DART"],
+    items: ["Laravel", "React", "Spring Boot", "Node.js", "Express", "Flutter","Angular","React JS","Next JS","Nest JS",],
   },
   {
     category: "frontend-design",
